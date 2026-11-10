@@ -1,0 +1,1 @@
+print("10 metros son ", 10 * 100, "centímetros")

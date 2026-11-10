@@ -1,0 +1,1 @@
+print("Dentro de 10 años yo tendré ", 49 + 10)
