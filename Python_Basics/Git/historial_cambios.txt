@@ -1,0 +1,11 @@
+Aparece un único commit: el inicial
+
+commit 2dc35b6522b146e78bb224e4e9cfce3b9b400170
+
+Identificado único 2dc35b6
+
+Referencias que apuntan el commit HEAD -> main, origin/main, origin/HEAD, Git_Exercise
+
+Qué cambió: Se agregaron los archivos iniciales y la estructura del repositorio de ejercicios.
+
+Por qué se hizo ese cambio: Para comenzar a organizar los ejercicios del curso y llevar un historial de sus cambios con Git.
